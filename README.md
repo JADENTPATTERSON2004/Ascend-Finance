@@ -1,4 +1,4 @@
-# Base44 App
+# Ascend Finance
 
 
 This app was created automatically by Base44.
